@@ -1,0 +1,14 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "fit3140 assignment 2",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Ryan Tan & Ng Kong Huat",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^4.1.3"
+  }
+}
