@@ -12,6 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. NodeJS
 3. Johnny-five 
 4. NPM
+5. AngularJS
 ```
 
 ### Installing
